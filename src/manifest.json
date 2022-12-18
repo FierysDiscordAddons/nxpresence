@@ -1,0 +1,12 @@
+{
+   "name": "nxpresence",
+   "version": "1.0.0",
+   "description": "Rich presence for Nintendo Switch on mobile using nxapi presence server",
+   "authors": [
+      {
+         "name": "Fiery",
+         "id": "890228870559698955"
+      }
+   ],
+   "color": "#E60012"
+}
